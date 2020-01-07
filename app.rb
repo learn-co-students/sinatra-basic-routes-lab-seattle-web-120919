@@ -15,7 +15,7 @@ class App < Sinatra::Base
     end
 
     get '/favorite-song' do
-        "My favorite song is Wh"
+        "My favorite song is"
         # some code to get the medicines and render the correct HTML file
     end
 end
